@@ -1,0 +1,14 @@
+<CHAPTER ID="010">
+Voting time (continuation) 
+<SPEAKER ID="110" NAME="President">
+The next item is voting time.
+<P>
+(For results and other details of the vote: see Minutes)
+<SPEAKER ID="111" NAME="Graham Booth" AFFILIATION="IND/DEM">
+Mr President, very briefly, I do not think you actually followed the Rules of Procedure correctly during the earlier voting session.
+<P>
+You said 'the voting is now open', but you did not ask 'have all Members voted?' before saying 'the voting is closed', and you did not read out the results.
+<P>
+I think you were out of order.
+<SPEAKER ID="112" NAME="President">
+Mr Booth, the result of the vote is on the screen. As you have asked for all today's votes to be roll-call votes, that is what we are doing; what I am trying to do is to make this form of voting as painless as possible for the House, if that is all right with you, Mr Booth.

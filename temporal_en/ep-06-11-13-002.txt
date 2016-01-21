@@ -1,0 +1,10 @@
+<CHAPTER ID="002">
+Approval of Minutes of previous sitting
+<SPEAKER ID="006" NAME="President">
+The Minutes of the sitting of 26 October 2006 have been distributed. Does anyone wish to comment on them?
+<SPEAKER ID="007" NAME="Françoise Grossetête" AFFILIATION="PPE-DE">
+(FR) Mr President, I would just like to point out that on Thursday I forgot to sign the attendance sheet However, I participated in all the roll-call votes at noon on Thursday and on Thursday evening.
+<SPEAKER ID="008" NAME="President">
+Appropriate steps will be taken to make the necessary correction.
+<P>
+(The Minutes of the previous sitting were approved)

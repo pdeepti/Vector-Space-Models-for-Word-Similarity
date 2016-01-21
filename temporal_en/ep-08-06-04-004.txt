@@ -1,0 +1,12 @@
+<CHAPTER ID="004">
+Approval of the minutes of the previous sitting
+<SPEAKER ID="010" NAME="President">
+The Minutes of the sitting of Thursday 22 May 2008 have been distributed.
+<P>
+Are there any comments?
+<SPEAKER ID="011" NAME="Paul Rübig" AFFILIATION="PPE-DE">
+(DE) Mr President, I would like to thank the staff of this House for organising the awards ceremony for the Energy Globe Awards, because it set a great example for the world and created an excellent impression of our Parliament. Thank you to everyone who took part.
+<SPEAKER ID="012" NAME="President">
+It is permissible to express these words of thanks. It was not in the Minutes, but never mind.
+<P>
+(The Minutes of the previous sitting were approved.)

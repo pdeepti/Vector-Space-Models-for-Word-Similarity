@@ -1,0 +1,6 @@
+<CHAPTER ID="019">
+Adjournment of the session
+<SPEAKER ID="300" NAME="President">
+I declare the session of the European Parliament adjourned.
+<P>
+(The sitting was suspended at 16.25)

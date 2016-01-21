@@ -1,0 +1,22 @@
+<CHAPTER ID="006">
+Voting time
+<SPEAKER ID="070" NAME="President">
+The next item is the vote
+<P>
+(For the results and other details on the vote: see Minutes)
+<P>
+- Before the vote:
+<SPEAKER ID="071" NAME="Sajjad Karim" AFFILIATION="ECR">
+Mr President, the Figaro newspaper this morning reports that last week a journalist not only entered the European Parliament with an imitation gun, but was also able to get extremely close to Prince Charles, the next British Head of State.
+<P>
+Given the ongoing concerns about security in this House, can you assure us today that you are taking these matters seriously, and that the so-called review being conducted in secret by Parliament's Bureau will not merely be a tinkering exercise, but a root-and-branch reform of security?
+<SPEAKER ID="072" NAME="President">
+Mr Karim, I can assure you that this matter is being taken very seriously. According to my information, it is being discussed at the Conference of Presidents, so you can be sure Parliament is paying great attention to this problem. It is a very serious matter.
+<SPEAKER ID="073" NAME="President">
+In the light of recent developments, the text on the media law in Hungary, the vote on which was tabled for today, will have to be revised. I therefore propose that this vote be postponed under Rule 177(4). The decision on further action on this issue and on the necessary new deadlines will be taken at the meeting of the Conference of Presidents on Thursday, 3 March 2011.
+<P>
+Who wishes to speak in favour? Who wishes to speak against?
+<SPEAKER ID="074" NAME="Renate Weber">
+on behalf of the ALDE Group. - Mr President, after the recent developments that are on the table at the Commission but not at Parliament, I feel that we have to postpone the vote on the resolution because it needs to be adapted to suit this new development.
+<SPEAKER ID="075" NAME="President">
+So that was the proposal in favour. Who wants to speak against? No one? Then we will proceed to the vote. Who is in favour of postponement? Against? Abstentions? The proposal is carried. The vote on this item is postponed.

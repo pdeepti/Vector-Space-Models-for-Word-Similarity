@@ -1,0 +1,8 @@
+<CHAPTER ID="006">
+Voting time 
+<SPEAKER ID="103" NAME="President">
+The next item is the vote.
+<P>
+Before we start with the votes, can I just explain that the electronic results system may be faulty, in which case you will only see the two cheeses known as 'the camembert' and not the result, but you may see it on your screen. We will check the system in a minute, so please be patient.
+<P>
+(For the results and other details on the vote: see Minutes)

@@ -1,0 +1,4 @@
+<CHAPTER ID="005-10">
+10. Radio Spectrum (vote) 
+<SPEAKER ID="149" NAME="President">
+That concludes the vote.

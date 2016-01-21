@@ -1,0 +1,6 @@
+<CHAPTER ID="010">
+Voting time
+<SPEAKER ID="245" NAME="President">
+The next item on the agenda is voting time.
+<P>
+(For outcomes and other details concerning the vote: see the minutes)

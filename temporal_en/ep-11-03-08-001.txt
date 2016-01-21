@@ -1,0 +1,4 @@
+<CHAPTER ID="001">
+Opening of the session
+<SPEAKER ID="004" NAME="President">
+I hereby declare the 2011-2012 session of the European Parliament resumed.

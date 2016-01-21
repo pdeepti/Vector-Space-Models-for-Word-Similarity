@@ -1,0 +1,82 @@
+<CHAPTER ID="022">
+Completing the internal market for e-commerce (short presentation) 
+<SPEAKER ID="216" NAME="President">
+The next item is the report by Pablo Arias Echeverría, on behalf of the Committee on the Internal Market and Consumer Protection, on completing the internal market for e-commerce.
+<SPEAKER ID="217" NAME="Pablo Arias Echeverría" LANGUAGE="ES">
+Mr President, as you all know, the Internet and new technologies represent an unprecedented revolution that means that we need to modernise the mechanisms that regulate e-commerce in our economy in order to be able to tackle the challenges that we are facing.
+<P>
+Just a few years ago, the new systems for trade over the Internet, and the new technologies and opportunities we have available to us now, did not exist. They are now a fact, however, and soon they will be an essential tool.
+<P>
+As legislators, we need to be broad-minded enough to create tools for the public that solve the problems of today, but which foresee and can be adapted to the problems of tomorrow. This is a commitment that we must make and a responsibility that we are obliged to take on.
+<P>
+We must prepare the way for what is to come and for those who are to come, and this means we need to overcome the obstacles to achieving that goal.
+<P>
+E-commerce is a tool available to us with enormous potential for relaunching and improving the competitiveness of our economy and also for strengthening the internal market. It is a tool that can create a great deal of added value and offer great opportunities to the European people and businesses in this time of crisis.
+<P>
+It is vital that the leaders of the European Union implement the necessary measures to overcome the existing barriers to cross-border e-commerce in Europe and that we generate confidence in this medium, simplify it and make the rules governing it transparent.
+<P>
+That is the only way to ensure that the public and businesses will be able to reap the rewards of its enormous potential. That is the only way that we can be competitive in a global market that waits for no one. Either we take the necessary measures energetically, decisively and with leadership, or our competitors will leave us behind.
+<P>
+The report that I am presenting today proposes measures for overcoming the barriers to cross-border trade. We have the opportunity not only to prepare the internal market for e-commerce, but also to help to complement the internal market through e-commerce.
+<P>
+The measures that I propose in the report are aimed at improving the quality of access to the Internet in Europe, improving consumer confidence by creating a European quality mark, increasing monitoring and supervision of the network and conducting information campaigns so that users are aware of their rights and know how and where to complain if they have problems. They are also aimed at protecting the private property and personal data of users, promoting the development of initiatives that incentivise businesses to sell their products online, improving payment systems and simplifying the rules regarding the payment of taxes, among other measures.
+<P>
+Finally, in this plan, I felt I needed to highlight the need to improve protection for minors using the Internet.
+<P>
+I believe that all these measures are essential for promoting e-commerce and for adapting the rules that currently govern it to a future in which we are already living. We have an obligation to offer mechanisms to the market that make our businesses more competitive and strengthen our economies. This plan is undoubtedly a platform on which we can continue to build without any obstacles or hindrances.
+<P>
+For these reasons, I would like to ask this House for its support to move forward with this initiative.
+<SPEAKER ID="218" NAME="Zuzana Roithová" AFFILIATION="PPE">
+(CS) I am delighted that the rapporteur has also drawn on my report on consumer confidence in the digital environment, which was passed by the European Parliament in the last session. Even though online commerce is showing growth levels of 50%, there is minimal exploitation of its potential within the European economy. Among other things, up to a third of online retailers or distributors refuse to deal with customers from other Member States. The causes of this are, on the one hand, the attempts by certain companies to artificially create separate national markets in order to apply different prices, and also persistent legislative obstacles which have still not been overcome at European level. I applaud the fact that the Member also presents proposals in his report today for greater Internet safety for children and young people, warning of the main dangers, which are pornography, the anonymous purchasing of tobacco or alcohol, gambling and communicating with strangers via social networks. I hope that the Commission will be more successful than it has been previously in supporting e-commerce, at least insofar as protecting children from dangerous Internet content is concerned.
+<SPEAKER ID="219" NAME="Silvia-Adriana Ţicău" AFFILIATION="S&amp;D">
+(RO) E-commerce is only in its infancy and increasing user confidence in transaction security is vital to its development and contribution to achieving a better functioning internal market.
+<P>
+The report stresses the importance of digital signatures and the public key infrastructure in terms of ensuring secure pan-European e-government services and the security of e-commerce. I believe that action is required to speed up the creation of a European Validation Authorities Gateway to ensure cross-border interoperability for electronic signatures. We also call on the Commission to come up with concrete measures to support the e-invoice initiative with a view to ensuring Europe-wide use of electronic invoices by 2020.
+<P>
+Finally, I hope that by 2015, at least 50% of all public procurement procedures will be conducted electronically, in accordance with the action plan agreed by the Ministerial Conference on e-Government, held in Manchester in 2005.
+<SPEAKER ID="220" NAME="Ilda Figueiredo" AFFILIATION="GUE/NGL">
+(PT) Mr President, in this debate on e-commerce, I would like to highlight three issues that I believe are important to clarify.
+<P>
+The first relates to the need to reconcile consumer rights and copyright. The second relates to the protection of children's rights and the security of e-commerce. We cannot jeopardise children's rights, and we need to ensure the security of e-commerce. However, the third issue is about the objectives set by the Commission for broadband, particularly the aim of achieving basic broadband for everyone in the European Union by 2013.
+<P>
+At present, knowing that approximately 30% of families, at least, do not even have access to the Internet, and that 20% of people within the EU live in poverty, how does the European Commission intend to ensure this objective of broadband for everyone by 2013?
+<SPEAKER ID="221" NAME="Jaroslav Paška" AFFILIATION="EFD">
+(SK) The submitted report deals with formal measures for improving electronic commerce, but pays scant regard to the specific social and cultural customs of individual countries.
+<P>
+Certain pharmaceutical products are sold freely in some countries, while in others, their sale is strictly regulated. Soft drugs or various erotic goods are freely available in some countries, while in others, the authorities set strict limits regarding access to such products. The liberal approach to opening up the electronic market must therefore also pay heed to protecting the regulations of individual countries regarding these specific types of goods, especially when it comes to protecting young people.
+<SPEAKER ID="222" NAME="Seán Kelly" AFFILIATION="PPE">
+Mr President, e-commerce has been tremendously beneficial to both businesses and consumers. There is one aspect, however, that I am not happy about and I want to draw attention to: e-ticketing. Tickets, particularly for big concerts and sporting events, are being sold at exorbitant prices. That is not acceptable.
+<P>
+In my own country, at the weekend, we had the All-Ireland football finals. It is an amateur organisation, but the maximum price for tickets was EUR 70. No club or self-respecting individual would sell those tickets for more than that. If touts were caught selling them in the street, they would be arrested. Yet they were freely available on the Internet at anything between EUR 350 and EUR 500. You may say that they could not sell them unless there was demand for them, but at the same time, I think this is a practice that is unsporting, unfair and unhelpful. It is the downside of e-commerce, which is largely beneficial to consumers.
+<SPEAKER ID="223" NAME="Karel De Gucht">
+Member of the Commission. - Mr President, firstly, I would like to thank the rapporteur, Mr Arias Echeverría, and Parliament as a whole for this wide-ranging appraisal of the European e-commerce market.
+<P>
+This report serves as a timely reminder that the e-commerce market is not yet a reality for many businesses and consumers. A fragmented market for e-commerce is also a worrying symptom of the missing links within the wider internal market. Most consumers have first-hand experience of the internal market when shopping online. It brings them into contact with sellers from all over Europe. Many sellers, especially SMEs, are keen to develop new markets thanks to the opportunities opened up by the Internet.
+<P>
+Addressing the obstacles that citizens face in the online world can go a long way towards turning the promise of an integrated internal market into a reality. So what can we do to fill the gaps in the internal market and make e-commerce work better?
+<P>
+The Commission will reflect carefully on its response to the report. Many of the points raised are addressed in various policy domains, including the digital agenda. In short, the report sketches out two avenues that we should explore. First, we need to make life easier and simpler for both consumers and businesses. We can do this by harmonising rules, for example, on consumer contracts, and we can streamline procedures to make them less costly for businesses conducting cross-border transactions, for example, concerning waste management fees, copyright levies, VAT reporting obligations and invoicing.
+<P>
+In this context, the Commission welcomes the report's support for a consumers' rights directive, which is currently being considered in the Committee on the Internal Market and Consumer Protection. We will make consumers' lives easier by enforcing EU legislation, in particular, in relation to the Services Directive, which prohibits geographical discrimination against consumers. Improving delivery and payments issues will also be a key factor if we want to develop e-commerce. We can also make it easier for citizens and companies to interact with national administrations by setting up one-stop-shops.
+<P>
+The Commission has set up a dedicated group of Commissioners for the digital agenda to ensure a joined-up approach to policy making on digital issues. It is also committed to fostering self-regulatory solutions by looking at the possibility of setting up an EU trust mark for e-commerce to complement a code of online rights.
+<P>
+Second, we need to better enforce rules and monitor the internal market: rights that are not enforced in practice are worthless. Alternative dispute resolution, as mentioned in the report, can provide low-cost, simple and quick redress for consumers shopping on the Internet. We will explore how best to improve ADR in the EU and come forward with a proposal for an EU-wide online dispute resolution system for e-commerce transactions by 2012.
+<P>
+We also intend to ensure that consumers in mass-claim situations across the EU are able to obtain compensation. Proposals for ADR and collective redress are also planned for the end of 2011. Knowing that public authorities are working together to keep a close watch on the internal market is a foundation for creating confidence. As part of the consumer protection committee, national authorities regularly cooperate to stamp out unlawful practices on the Internet.
+<P>
+The Commission also monitors the e-commerce market through its yearly consumer markets scoreboard. Earlier this month, we launched an in-depth study of e-commerce. At the beginning of 2011, a communication will be dedicated to the evaluation of the application of the e-Commerce Directive and will reflect on its better enforcement.
+<P>
+Finally, I should like once again to thank everyone who has been involved with this very useful and inspiring report. Let me also apologise on behalf of Mr Dalli, who is unable to be here for personal reasons.
+<SPEAKER ID="224" NAME="President">
+That concludes the item.
+<P>
+The vote will take place tomorrow (Tuesday, 21 September 2010) at 12:00.
+<P>
+Written statements (Rule 149)
+<SPEAKER ID="225" NAME="António Fernando Correia De Campos  " LANGUAGE="PT">
+Mr President, as Mr Monti said, the point at which the European Union has most need of the single market is the point at which it is least popular. We must find ways of improving and strengthening it and, above all, ensuring that it works with transparency, reliability and quality.
+<P>
+One such way is e-commerce. The digital market can potentially generate employment and trade, but it needs to overcome legal fragmentation in order to spread beyond borders, ensuring rights for consumers and increasing public confidence. For this reason, we need clear rules on contracts, coordinating VAT, intellectual property, payment systems and postal delivery at fair, competitive prices, or rapid methods for settling disputes. We need to ensure that Article 20 of the Services Directive is fulfilled and that there is no discrimination based on the origin of the consumer. The Single Market Act represents an excellent opportunity to set goals. I would like to thank Mr Arias for the openness that he has shown from the outset to reaching a comprehensive and consensual text.
+<SPEAKER ID="226" NAME="Petru Constantin Luhan  " AFFILIATION="PPE">
+in writing. - (RO) The European Union has prospered down the years thanks to trade, as it exports and imports everything from raw materials to finished products worldwide. In order to guide the single market towards fulfilling the Europe 2020 strategy objectives, we need to have efficiently operating, well connected markets which will allow competition and consumer access to boost growth and innovation. As is borne out by the surveys, there are large discrepancies between e-commerce at national and cross-border level, due largely to the obstacles encountered by the internal market. The results from the test carried out specifically with online stores are worrying as roughly 61% of all cross-border transactions failed for a variety of reasons. In view of this, I think that common European standards need to be drawn up immediately for this area which will eliminate the discrepancies between laws in Member States. We need to focus our efforts on regulating this kind of commerce and capitalise fully on its potential as part of our drive to boost the European Union's competitiveness globally.

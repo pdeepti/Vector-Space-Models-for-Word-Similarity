@@ -1,0 +1,4 @@
+<CHAPTER ID="008-15">
+15. Competition horizontal cooperation rules (vote) 
+<SPEAKER ID="111" NAME="President">
+That concludes the vote.

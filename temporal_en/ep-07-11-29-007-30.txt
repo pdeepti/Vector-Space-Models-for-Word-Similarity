@@ -1,0 +1,10 @@
+<CHAPTER ID="007-30">
+30. Common principles on flexicurity (vote) 
+<P>
+- Report: Ole Christensen
+<P>
+- Before the vote
+<SPEAKER ID="150" NAME="Stavros Lambrinidis" AFFILIATION="PSE">
+(EL) Mr President, I would simply like to point out that there are some serious problems with the Greek translation of this text, specifically as regards recitals 4, 5, 6, 8, Article 20, etc., for which the English version of the text is considered authoritative.
+<SPEAKER ID="151" NAME="President">
+You are right, Mr Lambrinidis, flexibility should not go as far as linguistic errors.

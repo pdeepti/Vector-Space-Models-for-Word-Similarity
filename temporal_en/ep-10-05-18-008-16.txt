@@ -1,0 +1,2 @@
+<CHAPTER ID="008-16">
+16. Simplification of the CAP (

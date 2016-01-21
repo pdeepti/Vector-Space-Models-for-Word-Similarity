@@ -1,0 +1,4 @@
+<CHAPTER ID="013">
+Welcome
+<SPEAKER ID="030" NAME="President">
+I would like to welcome the delegation from Mexico comprising members of Mexico's Chamber of Deputies and Senate, who are present in the official gallery.

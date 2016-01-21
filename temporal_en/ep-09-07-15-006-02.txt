@@ -1,0 +1,4 @@
+<CHAPTER ID="006-02">
+2. Numerical strength of committees
+<SPEAKER ID="117" NAME="President">
+That concludes the vote.

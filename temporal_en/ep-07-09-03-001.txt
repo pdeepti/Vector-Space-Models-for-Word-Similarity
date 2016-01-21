@@ -1,0 +1,4 @@
+<CHAPTER ID="001">
+Resumption of the session
+<SPEAKER ID="999" NAME="President">
+I declare resumed the session adjourned on Thursday, 12 July 2007.

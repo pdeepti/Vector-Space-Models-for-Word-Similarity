@@ -1,0 +1,2 @@
+<CHAPTER ID="004-05">
+5. Infrastructure for Spatial Information in the European Community (INSPIRE) (vote) 

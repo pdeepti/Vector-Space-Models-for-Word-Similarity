@@ -1,0 +1,6 @@
+<CHAPTER ID="005">
+Voting time 
+<SPEAKER ID="091" NAME="Przewodniczący">
+Kolejnym punktem porządku jest głosowanie.
+<P>
+(Wyniki i inne szczegóły głosowania: zobacz protokół.)

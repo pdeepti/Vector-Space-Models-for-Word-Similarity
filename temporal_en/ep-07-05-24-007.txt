@@ -1,0 +1,6 @@
+<CHAPTER ID="007">
+Voting time
+<SPEAKER ID="252" NAME="President">
+The next item is voting time.
+<P>
+(For results and other details of the vote: See Minutes

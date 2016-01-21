@@ -1,0 +1,4 @@
+<CHAPTER ID="001">
+Resumption of the session
+<SPEAKER ID="080" NAME="President">
+I declare resumed the session suspended on Thursday 21 June 2007.

@@ -1,0 +1,12 @@
+<CHAPTER ID="001">
+Opening of the sitting
+<P>
+(The sitting was opened at 9.05 a.m.)
+<SPEAKER ID="004" NAME="President">
+You wish to take the floor, Mr Carnero González. I imagine that it is for a point of order. On the basis of which Rule do you wish to speak?
+<SPEAKER ID="005" NAME="Carlos Carnero González" AFFILIATION="PSE">
+(ES) Yes, Mr President, I simply wished to mention the fact that the media is reporting that a European citizen, of Spanish nationality, Mr Emilio Morenatti, has been kidnapped in Gaza this morning by a group of armed men. I would ask that you call upon the Presidency of the Council and the Commission to do everything they can ...
+<P>
+(The President cut off the speaker)
+<SPEAKER ID="006" NAME="President">
+That is not a point of order. I understand your concern, but the Rules of Procedure must be respected. I take good note of what you say, thank you.

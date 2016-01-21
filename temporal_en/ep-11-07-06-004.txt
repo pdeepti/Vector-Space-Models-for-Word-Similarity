@@ -1,0 +1,4 @@
+<CHAPTER ID="004">
+Welcome
+<SPEAKER ID="140" NAME="President">
+Ladies and gentlemen, on behalf of this House, may I welcome Muhammad Yunus, winner of the 2006 Nobel Peace Prize and inventor of social microcredit, who is sitting in the gallery.

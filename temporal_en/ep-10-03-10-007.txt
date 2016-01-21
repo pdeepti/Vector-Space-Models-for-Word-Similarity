@@ -1,0 +1,20 @@
+<CHAPTER ID="007">
+Voting time
+<SPEAKER ID="087" NAME="President">
+The next item is the vote.
+<P>
+(For the results and other details on the vote: see Minutes)
+<SPEAKER ID="088" NAME="Robert Atkins" AFFILIATION="ECR">
+Mr President, on a point of order, I think you would find that if you took the first vote at 12.00, people would then sit down and participate, rather than waiting for them to sit down and participate and then taking the vote.
+<P>
+(Applause)
+<SPEAKER ID="089" NAME="President">
+I am very considerate.
+<SPEAKER ID="090" NAME="Sergio Paolo Francesco Silvestris" AFFILIATION="PPE">
+(IT) Mr President, I apologise for this intervention but as an MEP elected in Italy, I consider it my duty to offer, from this Chamber, a respectful and deferential greeting to my country's President, Giorgio Napolitano, custodian of Italy's constitutional values and national unity.
+<P>
+In this Chamber, the Italian President should only ever be referred to with respect and deference.
+<P>
+(Applause)
+<SPEAKER ID="091" NAME="President">
+We shall now proceed to the vote.
